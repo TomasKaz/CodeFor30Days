@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CodeFor30Days")]
+[assembly: AssemblyTitle("Day0")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("KMD A/S")]
-[assembly: AssemblyProduct("CodeFor30Days")]
+[assembly: AssemblyProduct("Day0")]
 [assembly: AssemblyCopyright("Copyright © KMD A/S 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5470e8b9-cf53-47f8-97f4-ab6b2134d672")]
+[assembly: Guid("00770a15-339f-456e-b77a-a32b70618615")]
 
 // Version information for an assembly consists of the following four values:
 //
